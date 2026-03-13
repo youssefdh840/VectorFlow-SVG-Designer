@@ -1,0 +1,5 @@
+{
+  "name": "VectorFlow SVG Designer",
+  "description": "A high-performance, vanilla JavaScript SVG design tool with zooming, panning, and path manipulation capabilities.",
+  "requestFramePermissions": []
+}
